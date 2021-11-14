@@ -11,4 +11,4 @@ On the "main.py" file, I use a list of data from a .txt file which is then commi
 
 Learn More about the psycopg2 library ! https://pypi.org/project/psycopg2/
 
-![](sql image 2.png)
+<img src="image.png">
