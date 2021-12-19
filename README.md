@@ -1,5 +1,5 @@
 # Automate PostgreSQL Databases with Python
-Application which allows you to make PostgreSQL databases with Python
+Automation of PostgreSQL databases with Python
 
 I used the psycopg2 library which is used to oparetes different database tasks on PostgreSQL using the python coding language.
 
